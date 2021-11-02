@@ -58,7 +58,7 @@ I plan on continuing to learn how to use flexbox to make the layouts of my pages
 ## Author
 
 - Website - [Sunny](https://github.com/sunnydesignsbyneko)
-- Frontend Mentor - [@sunnydesignsbyneko](https://www.frontendmentor.io/profile/sunnydesignsbyneko)\
+- Frontend Mentor - [@sunnydesignsbyneko](https://www.frontendmentor.io/profile/sunnydesignsbyneko)
 
 ## Acknowledgments
 
